@@ -1,0 +1,30 @@
+<resources>
+    <string name = "app_name"> app </string>
+    <string name="nol">0</string>
+    <string name="satu">1</string>
+    <string name="dua">2</string>
+    <string name="tiga">3</string>
+    <string name="empat">4</string>
+    <string name="lima">5</string>
+    <string name="enam">6</string>
+    <string name="tujuh">7</string>
+    <string name="delapan">8</string>
+    <string name="sembilan">9</string>
+
+    <string name="clear">Clear</string>
+    <string name="exponent">^</string>
+
+    <string name="divide"> ÷</string>
+    <string name="multiply"> ×</string>
+    <string name="add">+</string>
+    <string name="subtract">-</string>
+    <string name="plusminus">c</string>
+    <string name="point">.</string>
+    <string name="equals">=</string>
+
+    <string name="backspace"> </string>
+    <string name="display">"Input angka</string>
+    <string name = "owner">"application by rozak " </string>
+
+
+</resources>
